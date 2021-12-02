@@ -1,6 +1,6 @@
 # OpenCBS
 
-**Note that OpenCBS Desktop is not developed anymore, however you may still download and use this version for free. If you would like to request a Free Trial of OpenCBS Cloud, please follow this link to our website: https://opencbs.com/request_cloud/**
+**Note that OpenCBS Desktop is not developed anymore, it was replaced by OpenCBS Cloud in 2019. You may still download and use the Desktop version for free, but no support can be provided. If you would like to request a Free Trial of OpenCBS Cloud, please follow this link to our website: https://opencbs.com/request_cloud/**
 
 #### Adaptive open-source technology for microfinance
 
