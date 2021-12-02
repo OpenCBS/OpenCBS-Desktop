@@ -1,6 +1,8 @@
 # OpenCBS
 
-#### Adaptive open-source technology for microfinance.
+**Note that OpenCBS Desktop is not developed anymore, however you may still download and use this version for free. If you would like to request a Free Trial of OpenCBS Cloud, please follow this link to our website: https://opencbs.com/request_cloud/**
+
+#### Adaptive open-source technology for microfinance
 
 OpenCBS is an open-source loan tracking software for microfinance institutions.
 
